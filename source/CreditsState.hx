@@ -79,6 +79,10 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['Vs BlackFace Team'],
+			['KwPeter',		        'AbyBeat',		    'Creator Of This mod And Remake,Artist of Blackface and Credits', 'https://www.tiktok.com/@kw.peter001?lang=pt-BR',	'444444'],
+			['Storm',			    'Storm',		    'Coder,Programmer,Charter,Xd',					        'https://www.tiktok.com/@heitor._storm_.kk',		    'C30085'],
+			['gn0m1o_',		        'gnomio',	        'Animator',						                        'https://www.tiktok.com/@gn0m1o_',	    '444444'],			
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',						'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',					'https://twitter.com/river_oaken',		'C30085'],
